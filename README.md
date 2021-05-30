@@ -5,13 +5,13 @@ This project analyzes trends in PyBer's rideshare services in urban, suburban, a
 
 # Results
 
-## Average Fare per Ride & Fare per Driver -- [[Link to chart]](Analysis/PyBer_fare_per_ride_driver.PNG)
+### Average Fare per Ride & Fare per Driver -- [[Link to chart]](Analysis/PyBer_fare_per_ride_driver.PNG)
 
 There is a noticeable discrepancy between the three city types in regards to average fares per ride and fares per driver. In rural areas the average fare per ride is also roughly 10 dollars USD more expensive. Rural drivers on average are also earning more than three times that of urban drivers. There are also significantly fewer drivers serving rural cities and suburban cities compared to the urban cities. Urban cities are also the only city type where the average fare per driver is less than the average fare per ride. This means that most urban drivers are not receiving as many customers as their suburban and rural counterparts, because the market is oversaturated with too many drivers in urban centers.
 
 If PyBer wishes to increase their accessibility and affordability to their customers in rural and suburban cities, it may be worth recruiting more drivers for these areas, and suggesting to some of their urban drivers to consider working in a rural or suburban environment instead. For urban drivers, it may be more lucrative for them to transfer to a rural or suburban area
 
-## Total Fare by City Type -- [[Link to chart]](Analysis/PyBer_fare_summary.png)
+### Total Fare by City Type -- [[Link to chart]](Analysis/PyBer_fare_summary.png)
 
 The chart linked above shows the total fares earned each week across a 4-month period from January 2019 through April 2019. Unsurprisingly, urban cities cumulatively earn the most, followed by suburban and then rural cities. For each city type, there does not appear to be too great of a change in the total fares collected each week during this time period, though urban cities may have increased slightly. A longer time period would be needed to judge if there are any significant trends over time.
 
